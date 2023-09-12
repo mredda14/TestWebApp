@@ -1,0 +1,7 @@
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.exe
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.dll
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.deps.json
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.runtimeconfig.json
+C:\Personal\Future\Learn\Udemy\Projects\TestWebApp\TestWebApp\obj\Release\net6.0\PubTmp\Out\TestWebApp.pdb
